@@ -1,5 +1,6 @@
 # 🎬 MovieApp CLI
 Project idea found in https://roadmap.sh/projects/tmdb-cli
+https://github.com/brenda9723/showSomeMovies
 
 An interactive command-line interface (CLI) application built with **PHP** that consumes **The Movie Database (TMDB)** API. It allows you to quickly check the latest movies, popular titles, top-rated films, and upcoming releases directly from your terminal.
 
